@@ -258,7 +258,7 @@ form input::placeholder{color: #c5c5c5;}
     menu li a.active, menu li a:hover { background: var(--blue);}
     #main1 .container {
         grid-template-rows: 220px 220px 220px 220px 220px;
-        grid-template-columns: 24% 24% 24% 24%;
+        grid-template-columns: 23% 23% 23% 23%;
     }
     #main1 .container div { opacity: .5 }
     #main1 .container div:hover { opacity: 1 }
